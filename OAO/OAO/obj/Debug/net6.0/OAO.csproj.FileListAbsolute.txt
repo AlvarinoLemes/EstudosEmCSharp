@@ -1,0 +1,15 @@
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\bin\Debug\net6.0\OAO.exe
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\bin\Debug\net6.0\OAO.deps.json
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\bin\Debug\net6.0\OAO.runtimeconfig.json
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\bin\Debug\net6.0\OAO.dll
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\bin\Debug\net6.0\OAO.pdb
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\OAO.csproj.AssemblyReference.cache
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\OAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\OAO.AssemblyInfoInputs.cache
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\OAO.AssemblyInfo.cs
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\OAO.csproj.CoreCompileInputs.cache
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\OAO.dll
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\refint\OAO.dll
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\OAO.pdb
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\OAO.genruntimeconfig.cache
+C:\Users\sit_acristino\OneDrive - UNIVERSO ONLINE S.A\Área de Trabalho\Estudos\OAO\OAO\obj\Debug\net6.0\ref\OAO.dll
